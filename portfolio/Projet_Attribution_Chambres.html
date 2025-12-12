@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<title>Portfolio – Système décisionnel d’attribution des chambres (UCAD)</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<style>
+  body{font-family: Arial, Helvetica, sans-serif; max-width: 900px; margin: 30px auto; color:#111; line-height:1.45;}
+  header h1{color:#2b6cb0; margin:0 0 6px 0;}
+  header p.lead{color:#334155; margin-top:0}
+  .card{background:#fff; border:1px solid #e6eef5; padding:18px; border-radius:8px; box-shadow: 0 4px 10px rgba(15,23,42,0.03); margin-bottom:18px;}
+  h2{color:#164e63; margin-top:8px}
+  pre{background:#f8fafc; padding:12px; border-radius:6px; overflow:auto}
+  .chart{text-align:center; margin: 10px 0 20px 0;}
+  footer{font-size:0.9em; color:#475569; text-align:center; margin-top:30px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Projet Data : Système décisionnel d’attribution des chambres</h1>
+  <p class="lead">Université Cheikh Anta Diop — Projet de Master (cas pratique)<br>
+  Conception d’un système BI complet : ETL (SSIS), Data Warehouse, OLAP (SSAS) et reporting (SSRS).</p>
+</header>
+
+<section class="card">
+  <h2>Résumé du projet</h2>
+  <p>
+    Ce projet consiste à concevoir un système décisionnel permettant d’automatiser et d’optimiser
+    le processus d’attribution des chambres à l’Université Cheikh Anta Diop. Le système centralise
+    les données étudiantes, calcule des scores d’attribution et fournit des rapports fiables pour les
+    décideurs (direction du logement).
+  </p>
+
+  <h2>Pipeline BI</h2>
+  <pre>
+1. Collecte et nettoyage des données.
+2. Transformation et intégration dans un data warehouse (ETL - SSIS).
+3. Modélisation OLAP (SSAS) – dimensions & mesures.
+4. Calcul de scores d'attribution (règles business : bourse, distance, ancienneté, performance).
+5. Reporting automatisé (SSRS) et exports pour les agents COUD.
+  </pre>
+
+  <h2>Description technique</h2>
+  <pre>
+Technologies & compétences :
+- ETL : SSIS (extraction, nettoyage, transformation)
+- Data Warehouse & SQL (structure, requêtes, procédures)
+- OLAP : SSAS (cube, hiérarchies, mesures)
+- Reporting : SSRS (tableaux de bord, rapports programmés)
+- Compétences démontrées : SQL avancé, modélisation multidimensionnelle, BI, data engineering
+  </pre>
+</section>
+
+<section class="card">
+  <h2>Visualisation fictive</h2>
+  <div class="chart">
+    <!-- SVG intégré (copie de critere_chart.svg) -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="700" height="360" viewBox="0 0 700 360">
+      <style>
+        .bg{fill:#ffffff}
+        .bar{fill:#2b6cb0}
+        .label{font:14px sans-serif; fill:#111}
+        .val{font:12px sans-serif; fill:#111}
+      </style>
+      <rect class="bg" width="700" height="360"/>
+      <line x1="80" y1="300" x2="620" y2="300" stroke="#888" stroke-width="1"/>
+      <line x1="80" y1="60" x2="80" y2="300" stroke="#888" stroke-width="1"/>
+      <rect class="bar" x="110" y="120" width="90" height="180" rx="6"/>
+      <text class="val" x="155" y="110" text-anchor="middle">40%</text>
+      <text class="label" x="155" y="320" text-anchor="middle">Bourse</text>
+      <rect class="bar" x="230" y="165" width="90" height="135" rx="6"/>
+      <text class="val" x="275" y="155" text-anchor="middle">25%</text>
+      <text class="label" x="275" y="320" text-anchor="middle">Distance</text>
+      <rect class="bar" x="350" y="185" width="90" height="115" rx="6"/>
+      <text class="val" x="395" y="175" text-anchor="middle">20%</text>
+      <text class="label" x="395" y="320" text-anchor="middle">Ancienneté</text>
+      <rect class="bar" x="470" y="205" width="90" height="95" rx="6"/>
+      <text class="val" x="515" y="195" text-anchor="middle">15%</text>
+      <text class="label" x="515" y="320" text-anchor="middle">Performance</text>
+      <text x="350" y="40" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#0b3954">
+        Répartition des critères d'attribution (%)
+      </text>
+    </svg>
+  </div>
+  <p><em>Note :</em> le graphique est fictif — il illustre visuellement l’importance relative des critères (à adapter avec tes données réelles).</p>
+</section>
+
+<footer>
+  <p>Version portfolio générée à partir du mémoire UCAD (W. Sarr). Pour ajouter ton nom, remplace le titre et la section contact.</p>
+</footer>
+</body>
+</html>
