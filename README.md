@@ -44,7 +44,7 @@ J’interviens sur des missions :
 **Objectif :** Extraire des informations à partir de rapports scientifiques et mesurer la similarité documentaire.  
 **Livrables :** pipeline NLP, visualisations, synthèse automatique.
 
-🔗 **Page du projet :** `Projet_INRAE_Portfolio.html`
+🔗 **Page du projet :** `Projet_INRAE.html`
 
 ---
 
