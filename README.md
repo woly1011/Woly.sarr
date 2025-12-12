@@ -105,17 +105,15 @@ Dossiers disponibles dans :
 
 **Nom :** Woly SARR  
 **Statut :** Auto-entrepreneur – Data / BI / NLP  
-**Email :** *(à compléter)*  
-**Téléphone :** *(à compléter)*  
-**LinkedIn :** *(optionnel)*  
+**Email :** *woly1.sarr@gmail.com*  
+**Téléphone :** *0758375136*  
+**LinkedIn :** *https://www.linkedin.com/in/woly-sarr-82865232b/*  
 
 💼 Disponible pour :  
 - Missions Data Analyst  
 - Tableaux de bord Power BI  
 - Automatisation Python/SQL  
 - Études documentaires (NLP)  
-- Enseignement (maths)  
-- Coiffure africaine (services annexes)
 
 ---
 
