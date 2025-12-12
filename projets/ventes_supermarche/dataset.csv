@@ -1,1 +1,10 @@
+Date,Produit,Quantite,Prix_Unitaire,Categorie
+2024-01-02,Pain,3,1.20,Alimentaire
+2024-01-02,Lait,2,0.99,Alimentaire
+2024-01-03,Beurre,1,2.50,Alimentaire
+2024-01-05,Serviettes,4,3.20,Hygiène
+2024-01-10,Jus d'orange,2,2.10,Boissons
+2024-01-15,Chocolat,1,2.80,Confiserie
+2024-01-20,Riz,5,1.00,Alimentaire
+2024-02-01,Pâtes,4,0.90,Alimentaire
 
