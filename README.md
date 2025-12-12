@@ -35,7 +35,7 @@ J’interviens sur des missions :
 **Objectif :** Automatiser et fiabiliser l’attribution des chambres étudiantes.  
 **Livrables :** Data Warehouse, ETL, cube OLAP, reporting automatisé.
 
-🔗 **Page du projet :** `Projet_UCAD_Portfolio.html`
+🔗 **Page du projet :** `Projet_Attribution_Chambres.html`
 
 ---
 
