@@ -16,7 +16,7 @@ Analyser les performances des ventes par région et catégorie à l’aide d’u
 - Dashboard interactif
 
 ## 📸 Aperçu
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ## 💡 Résultats
 - Identification des régions performantes
