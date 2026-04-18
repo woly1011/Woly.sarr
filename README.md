@@ -48,6 +48,16 @@ J’interviens sur des missions :
 
 ---
 
+## 📊 Dashboard des ventes (Excel)
+
+**Technos :** Excel · LibreOffice · Data Analysis  
+**Objectif :** Analyse des performances des ventes avec un dashboard interactif  
+**Fonctionnalités :** KPI dynamiques, filtres, visualisations  
+
+🔗 **Voir le projet :** `/projects/dashboard-ventes-excel`
+
+---
+
 # 🧪 Projets Data (en développement)
 
 Ce dépôt contient également plusieurs projets simples et efficaces pour illustrer mes compétences analytiques :
