@@ -54,7 +54,7 @@ J’interviens sur des missions :
 **Objectif :** Analyse des performances des ventes avec un dashboard interactif  
 **Fonctionnalités :** KPI dynamiques, filtres, visualisations  
 
-🔗 **Voir le projet :** `/projects/dashboard-ventes-excel`
+🔗 **Voir le projet :** [Dashboard des ventes](./projects/dashboard-ventes-excel)
 
 ---
 
