@@ -57,7 +57,7 @@ Analyse des performances des ventes avec un dashboard dynamique.
 - Analyse par région et catégorie
 - Visualisation interactive
 
-🔗 [Page du projet][Dashboard des ventes](./projets/dashboard-ventes-excel)
+🔗 [Page du projet](./projets/dashboard-ventes-excel)
 🔗 [Voir le projet](https://github.com/woly1011/Woly.sarr/tree/main/projets/dashboard-ventes-excel)
 
 ---
