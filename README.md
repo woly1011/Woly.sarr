@@ -86,8 +86,12 @@ Dossiers disponibles dans :
 ### 📊 Data Analysis
 - Python (Pandas, Numpy, Matplotlib)
 - SQL (jointures, agrégations, procédures)
-- Excel, Tableaux croisés dynamiques
-- Analyse exploratoire (EDA)
+- Excel / LibreOffice (Tableaux croisés dynamiques, KPI, dashboards)
+- Analyse exploratoire des données (EDA)
+- Nettoyage et préparation des données
+- Calcul et interprétation de KPI (ventes, profit, marge)
+- Visualisation de données
+- Analyse métier et production d’insights
 
 ### 🧩 Business Intelligence
 - SSIS (ETL)
