@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Portfolio – Dashboard des ventes</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    body { font-family: Arial, sans-serif; margin: 30px auto; max-width: 900px; line-height: 1.55; color: #1a1a1a; }
+    h1 { color: #2b6cb0; }
+    h2 { color: #234e52; margin-top: 35px; }
+    .card { 
+        border: 1px solid #e2e8f0; 
+        padding: 20px; 
+        border-radius: 10px; 
+        background: #ffffff; 
+        box-shadow: 0px 4px 12px rgba(0,0,0,0.05); 
+        margin-bottom: 25px; 
+    }
+    pre { background: #f7fafc; padding: 12px; border-radius: 6px; overflow-x: auto; }
+    .metric { 
+        display: inline-block; 
+        padding: 12px 18px; 
+        background: #edf2f7; 
+        border-radius: 8px; 
+        margin: 6px;
+        font-size: 14px;
+    }
+    footer { color: #475569; text-align: center; font-size: 0.85em; margin-top: 40px; }
+</style>
+</head>
+<body>
+
+<h1>Projet Data – Dashboard des ventes</h1>
+<p><strong>Excel · LibreOffice Calc · Python · KPI · Data Visualization</strong></p>
+
+<section class="card">
+<h2>Résumé du projet</h2>
+<p>
+Ce projet a pour objectif de suivre et analyser les performances commerciales à partir du dataset
+<strong>Superstore</strong>. Il permet d’examiner les ventes, les profits et les marges selon les régions
+et les catégories de produits afin d’identifier les zones les plus performantes et celles à améliorer.
+</p>
+
+<p>
+Le projet a abouti à la création d’un <strong>dashboard interactif</strong> facilitant la lecture des indicateurs
+clés et la prise de décision. L’analyse a également été documentée dans un notebook explicatif afin
+de présenter les étapes de préparation, de calcul et d’interprétation des résultats.
+</p>
+</section>
+
+<section class="card">
+<h2>Pipeline d’analyse</h2>
+<pre>
+1. Importation du dataset Superstore
+2. Nettoyage et vérification des données
+3. Structuration des variables utiles à l’analyse
+4. Calcul des KPI : ventes, profit, marge
+5. Analyse par région et par catégorie
+6. Création de tableaux croisés dynamiques
+7. Mise en place de filtres interactifs
+8. Création du dashboard dans Excel / LibreOffice Calc
+9. Documentation de l’analyse dans un notebook Python
+</pre>
+</section>
+
+<section class="card">
+<h2>Technologies & compétences</h2>
+
+<div class="metric">Excel</div>
+<div class="metric">LibreOffice Calc</div>
+<div class="metric">Python</div>
+<div class="metric">Pandas</div>
+<div class="metric">Matplotlib</div>
+<div class="metric">Tableaux croisés dynamiques</div>
+<div class="metric">KPI</div>
+<div class="metric">Data Visualization</div>
+<div class="metric">EDA</div>
+<div class="metric">Insights métier</div>
+
+<p>
+Ce projet démontre une capacité à préparer les données, calculer des indicateurs de performance,
+concevoir un tableau de bord interactif et produire des analyses utiles à la prise de décision.
+</p>
+</section>
+
+<section class="card">
+<h2>Visualisation fictive liée aux ventes par région</h2>
+<p>Représentation fictive des ventes par région :</p>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="360" viewBox="0 0 700 360">
+  <style>
+    .bg{fill:#ffffff}
+    .bar{fill:#2b6cb0}
+    .label{font:14px sans-serif; fill:#111}
+    .val{font:12px sans-serif; fill:#111}
+  </style>
+  <rect class="bg" width="700" height="360"/>
+
+  <rect class="bar" x="90" y="90" width="90" height="210" rx="6"/>
+  <text class="val" x="135" y="80" text-anchor="middle">35%</text>
+  <text class="label" x="135" y="320" text-anchor="middle">West</text>
+
+  <rect class="bar" x="220" y="130" width="90" height="170" rx="6"/>
+  <text class="val" x="265" y="120" text-anchor="middle">28%</text>
+  <text class="label" x="265" y="320" text-anchor="middle">East</text>
+
+  <rect class="bar" x="350" y="165" width="90" height="135" rx="6"/>
+  <text class="val" x="395" y="155" text-anchor="middle">22%</text>
+  <text class="label" x="395" y="320" text-anchor="middle">Central</text>
+
+  <rect class="bar" x="480" y="200" width="90" height="100" rx="6"/>
+  <text class="val" x="525" y="190" text-anchor="middle">15%</text>
+  <text class="label" x="525" y="320" text-anchor="middle">South</text>
+
+  <text x="350" y="40" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#0b3954">
+    Répartition des ventes par région (%) – Données fictives
+  </text>
+</svg>
+
+<p><em>Note : ce graphique est fictif et illustre simplement la logique du dashboard.</em></p>
+</section>
+
+<section class="card">
+<h2>Résultats du projet</h2>
+<ul>
+  <li>Identification des régions les plus performantes</li>
+  <li>Analyse des catégories les plus contributrices au chiffre d’affaires</li>
+  <li>Suivi des KPI clés : ventes, profit, marge</li>
+  <li>Création d’un dashboard interactif clair et exploitable</li>
+  <li>Production d’insights métier pour orienter la prise de décision</li>
+</ul>
+</section>
+  
+
+<footer>
+Page portfolio – Projet Dashboard des ventes — Woly SARR
+</footer>
+
+</body>
+</html>
