@@ -53,7 +53,8 @@ Analyser les performances des ventes par région et catégorie afin d’identifi
 - Analyse des catégories les plus rentables  
 - Mise en place d’un dashboard interactif facilitant la prise de décision  
 
-🔗 **Voir le projet :** [Dashboard des ventes](./projets/dashboard-ventes-excel)
+🔗 **Page du projet :** [Dashboard des ventes](./projets/dashboard-ventes-excel)
+🔗 **Voir le projet :** [Dashboard des ventes](https://github.com/woly1011/Woly.sarr/tree/main/projets/dashboard-ventes-excel)
 
 ---
 
