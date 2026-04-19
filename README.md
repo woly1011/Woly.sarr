@@ -1,87 +1,23 @@
-# 🌟 Portfolio Data – Woly SARR
+# 🌟 Woly SARR – Data Analyst | BI | NLP
 
-Bienvenue sur mon portfolio professionnel.  
-Je suis **Woly Sarr**, Data Analyst & Consultante indépendante spécialisée en :
-
-- **Data Analysis**
-- **Business Intelligence (SSIS · SSAS · SSRS · Power BI)**
-- **Python, SQL & automatisation**
-- **Traitement automatique du langage (NLP)**
-- **Projets scientifiques & environnementaux**
-
-Ce dépôt présente mes projets principaux ainsi que plusieurs analyses de données destinées à démontrer mes compétences techniques et opérationnelles.
+🚀 Data Analyst & Consultante indépendante spécialisée en **analyse de données, Business Intelligence et NLP**
 
 ---
 
-## 📌 À propos
-Je transforme les données en informations exploitables pour améliorer la prise de décision.  
-J’interviens sur des missions :
+## 🎯 À propos
 
-- d’automatisation (Python / SQL),
-- de reporting (Power BI / SSRS),
-- d’analyse exploratoire (EDA),
-- de création de Data Pipelines,
-- d’analyse documentaire scientifique (NLP),
-- de modélisation BI (Data Warehouse / OLAP).
+Je transforme les données en informations exploitables pour améliorer la prise de décision.
 
-👉 Disponible pour prestations de service, missions freelance ou projets d’accompagnement en data.
+💼 J’interviens sur :
+- Analyse de données (Python, SQL)
+- Business Intelligence (Power BI, SSIS, SSAS, SSRS)
+- Création de dashboards interactifs
+- Automatisation des traitements de données
+- Analyse documentaire et NLP
 
 ---
 
-# 📂 Projets principaux
-
-## 📊 Dashboard des ventes – Analyse interactive
-
-**Technos :** Excel · LibreOffice Calc · Python · Pandas · Matplotlib  
-
-**Type de projet :** Analyse de données & Business Intelligence  
-
-**Objectif :**  
-Analyser les performances des ventes par région et catégorie afin d’identifier les zones à fort potentiel et les axes d’amélioration.
-
-**Compétences développées :**
-- Nettoyage et préparation des données  
-- Analyse exploratoire (EDA)  
-- Calcul de KPI (ventes, profit, marge)  
-- Création de tableaux croisés dynamiques  
-- Conception de dashboard interactif  
-- Visualisation de données  
-- Interprétation des résultats (insights métier)
-
-**Résultats :**
-- Identification des régions les plus performantes  
-- Analyse des catégories les plus rentables  
-- Mise en place d’un dashboard interactif facilitant la prise de décision  
-
-🔗 **Page du projet :** [Dashboard des ventes](./projets/dashboard-ventes-excel)
-🔗 **Voir le projet :** [Dashboard des ventes](https://github.com/woly1011/Woly.sarr/tree/main/projets/dashboard-ventes-excel)
-
----
-
-# 🧪 Projets Data (en développement)
-
-Ce dépôt contient également plusieurs projets simples et efficaces pour illustrer mes compétences analytiques :
-
-- **Analyse des ventes (Python / Power BI)**  
-- **Analyse des salaires dans le monde (Python)**  
-- **Analyse NLP de commentaires Google Play**  
-- **Mini base RH – SQL**  
-- **Dashboard de gestion scolaire (Power BI)**  
-
-Chaque projet inclura :
-
-- un **notebook** explicatif  
-- un **dataset**  
-- un **README**  
-- des **visualisations**  
-- des **insights** clairs  
-
-Dossiers disponibles dans :  
-📁 `/projects`
-
----
-
-# 🛠️ Compétences techniques
+## 🛠️ Compétences techniques
 
 ### 📊 Data Analysis
 - Python (Pandas, Numpy, Matplotlib)
@@ -105,32 +41,65 @@ Dossiers disponibles dans :
 - Word2Vec
 - BERT embeddings
 - Similarité de documents
-- Nettoyage & préparation du texte
-
-### 🧮 Mathématiques appliquées
-- Statistiques descriptives
-- Probabilités
-- Régression
-- Algèbre linéaire
+- Nettoyage et traitement du texte
 
 ---
 
-# 📬 Contact
 
-**Nom :** Woly SARR  
-**Statut :** Auto-entrepreneur – Data / BI / NLP  
-**Email :** *woly1.sarr@gmail.com*  
-**Téléphone :** *0758375136*  
-**LinkedIn :** *https://www.linkedin.com/in/woly-sarr-82865232b/*  
+## 📊 Projets Data
 
-💼 Disponible pour :  
-- Missions Data Analyst  
-- Tableaux de bord Power BI  
-- Automatisation Python/SQL  
-- Études documentaires (NLP)  
+### 📊 Dashboard des ventes – Analyse interactive
+Analyse des performances des ventes avec un dashboard dynamique.
+
+**Compétences :**
+- KPI (ventes, profit, marge)
+- Tableaux croisés dynamiques
+- Analyse par région et catégorie
+- Visualisation interactive
+
+🔗 [Page du projet][Dashboard des ventes](./projets/dashboard-ventes-excel)
+🔗 [Voir le projet](https://github.com/woly1011/Woly.sarr/tree/main/projets/dashboard-ventes-excel)
 
 ---
 
-# ⭐ Merci de votre visite !
+# 🧪 Autres Projets Data
 
-N’hésitez pas à explorer les projets et à me contacter pour toute collaboration.
+Ce dépôt contient également plusieurs projets simples et efficaces pour illustrer mes compétences analytiques :
+
+- **Analyse des ventes (Python / Power BI)**  
+- **Analyse des salaires dans le monde (Python)**  
+- **Analyse NLP de commentaires Google Play**  
+- **Mini base RH – SQL**  
+- **Dashboard de gestion scolaire (Power BI)**  
+
+Chaque projet inclura :
+
+- un **notebook** explicatif  
+- un **dataset**  
+- un **README**  
+- des **visualisations**  
+- des **insights** clairs  
+
+Dossiers disponibles dans :  
+📁 `/projects`
+
+---
+
+## 📬 Contact
+
+📧 Email : woly1.sarr@gmail.com  
+📱 Téléphone : 0758375136  
+🔗 LinkedIn : https://www.linkedin.com/in/woly-sarr-82865232b/
+
+---
+
+## ⭐ Disponibilité
+
+✔ Missions Data Analyst  
+✔ Dashboards Power BI / Excel  
+✔ Automatisation Python / SQL  
+✔ Analyse NLP  
+
+---
+
+💡 N’hésitez pas à me contacter pour toute collaboration.
