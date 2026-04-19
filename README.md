@@ -30,29 +30,28 @@ J’interviens sur des missions :
 
 # 📂 Projets principaux
 
-## 1️⃣ **Système décisionnel d’attribution des chambres – UCAD**
-**Technos :** SQL Server · SSIS · SSAS · SSRS · Modélisation multidimensionnelle  
-**Objectif :** Automatiser et fiabiliser l’attribution des chambres étudiantes.  
-**Livrables :** Data Warehouse, ETL, cube OLAP, reporting automatisé.
+## 📊 Dashboard des ventes – Analyse interactive
 
-🔗 **Page du projet :** `Projet_Attribution_Chambres.html`
+**Technos :** Excel · LibreOffice Calc · Python · Pandas · Matplotlib  
 
----
+**Type de projet :** Analyse de données & Business Intelligence  
 
-## 2️⃣ **Analyse sémantique & biodiversité – INRAE**
-**Technos :** Python · NLP · SpaCy · Word2Vec · BERT  
-**Objectif :** Extraire des informations à partir de rapports scientifiques et mesurer la similarité documentaire.  
-**Livrables :** pipeline NLP, visualisations, synthèse automatique.
+**Objectif :**  
+Analyser les performances des ventes par région et catégorie afin d’identifier les zones à fort potentiel et les axes d’amélioration.
 
-🔗 **Page du projet :** `Projet_INRAE.html`
+**Compétences développées :**
+- Nettoyage et préparation des données  
+- Analyse exploratoire (EDA)  
+- Calcul de KPI (ventes, profit, marge)  
+- Création de tableaux croisés dynamiques  
+- Conception de dashboard interactif  
+- Visualisation de données  
+- Interprétation des résultats (insights métier)
 
----
-
-## 📊 Dashboard des ventes (Excel)
-
-**Technos :** Excel · LibreOffice · Data Analysis  
-**Objectif :** Analyse des performances des ventes avec un dashboard interactif  
-**Fonctionnalités :** KPI dynamiques, filtres, visualisations  
+**Résultats :**
+- Identification des régions les plus performantes  
+- Analyse des catégories les plus rentables  
+- Mise en place d’un dashboard interactif facilitant la prise de décision  
 
 🔗 **Voir le projet :** [Dashboard des ventes](./projets/dashboard-ventes-excel)
 
