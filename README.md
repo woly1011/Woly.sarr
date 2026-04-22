@@ -78,7 +78,7 @@ Chaque projet inclura :
 - des **insights** clairs  
 
 Dossiers disponibles dans :  
-📁 `/projects`
+📁 `/projets`
 
 ---
 
