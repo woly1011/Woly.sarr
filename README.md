@@ -67,11 +67,7 @@ Analyse des performances des ventes avec un dashboard dynamique.
 Ce dépôt contient également plusieurs projets simples et efficaces pour illustrer mes compétences analytiques :
 
 - **Analyse de la qualité de vie par pays (Python)**
-- **Analyse des ventes (Python / Power BI)**  
-- **Analyse des salaires dans le monde (Python)**  
-- **Analyse NLP de commentaires Google Play**  
-- **Mini base RH – SQL**  
-- **Dashboard de gestion scolaire (Power BI)**  
+ 
 
 Chaque projet inclura :
 
