@@ -67,7 +67,8 @@ Analyse des performances des ventes avec un dashboard dynamique.
 Ce dépôt contient également plusieurs projets simples et efficaces pour illustrer mes compétences analytiques :
 
 - **Analyse de la qualité de vie par pays (Python)**
- 
+ 🔗 [Page du projet](./projets/analyse-performance-emmployes)
+🔗 [Voir le projet](https://github.com/woly1011/Woly.sarr/tree/main/projets/analyse-performance-employes)
 
 Chaque projet inclura :
 
